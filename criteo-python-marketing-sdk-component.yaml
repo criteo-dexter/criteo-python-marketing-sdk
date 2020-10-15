@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Criteo Python Marketing SDK
+  name: criteo-python-marketing-sdk
   description: Official Python SDK to access the Criteo Marketing API
   tags:
     - java
