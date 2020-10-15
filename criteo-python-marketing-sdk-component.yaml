@@ -8,6 +8,7 @@ metadata:
     - rest
   annotations:
     backstage.io/techdocs-ref: github:https://github.com/criteo-dexter/criteo-python-marketing-sdk
+    github.com/project-slug: criteo/criteo-python-marketing-sdk
 spec:
   type: service
   lifecycle: experimental
