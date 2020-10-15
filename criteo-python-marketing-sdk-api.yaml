@@ -11,6 +11,6 @@ metadata:
 spec:
   type: openapi
   lifecycle: production
-  owner: dev-kit@criteo.com
+  owner: developer@criteo.com
   definition:
     $text: https://api.criteo.com/marketing/swagger/docs/v.1.0
