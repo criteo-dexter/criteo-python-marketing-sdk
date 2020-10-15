@@ -8,7 +8,7 @@ metadata:
     - rest
 spec:
   type: openapi
-  lifecycle: experimental
-  owner: helloworld@criteo.com
+  lifecycle: production
+  owner: python-crew@criteo.com
   definition:
     $text: https://api.criteo.com/marketing/swagger/docs/v.1.0
