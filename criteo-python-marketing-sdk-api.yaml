@@ -5,10 +5,12 @@ metadata:
   description: Criteo Python Marketing SDK API
   tags:
     - criteo
+    - python
+    - marketing
     - rest
 spec:
   type: openapi
   lifecycle: production
-  owner: python-crew@criteo.com
+  owner: dev-kit@criteo.com
   definition:
     $text: https://api.criteo.com/marketing/swagger/docs/v.1.0
