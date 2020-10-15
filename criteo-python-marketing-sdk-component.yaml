@@ -11,4 +11,4 @@ spec:
   lifecycle: production
   owner: hellyeah@criteo.com
   implementsApis:
-     - criteo-python-marketing-sdk
+    - criteo-python-marketing-sdk
