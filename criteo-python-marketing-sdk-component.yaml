@@ -14,6 +14,6 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: hellyeah@criteo.com
+  owner: dev-kit@criteo.com
   implementsApis:
     - criteo-python-marketing-sdk
