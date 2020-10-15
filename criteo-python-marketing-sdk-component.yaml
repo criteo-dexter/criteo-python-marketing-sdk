@@ -8,6 +8,6 @@ metadata:
   annotations:
     github.com/project-slug: criteo-dexter/criteo-python-marketing-sdk
 spec:
-  type: library
+  type: service
   lifecycle: production
   owner: hellyeah@criteo.com
