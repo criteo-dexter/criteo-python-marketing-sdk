@@ -8,7 +8,7 @@ metadata:
     - rest
 spec:
   type: service
-  lifecycle: production
+  lifecycle: experimental
   owner: hellyeah@criteo.com
   implementsApis:
     - criteo-python-marketing-sdk
