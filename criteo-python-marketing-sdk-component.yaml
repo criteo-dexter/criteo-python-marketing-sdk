@@ -5,14 +5,15 @@ metadata:
   description: Criteo Python Marketing SDK
   tags:
     - criteo
-    - rest
+    - python
+    - marketing
   annotations:
     backstage.io/techdocs-ref: github:https://github.com/criteo-dexter/criteo-python-marketing-sdk
     github.com/project-slug: criteo-dexter/criteo-python-marketing-sdk
     travis-ci.com/repo-slug: criteo-dexter/criteo-python-marketing-sdk
 spec:
   type: service
-  lifecycle: experimental
+  lifecycle: production
   owner: hellyeah@criteo.com
   implementsApis:
     - criteo-python-marketing-sdk
