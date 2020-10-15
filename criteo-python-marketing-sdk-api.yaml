@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: criteo-python-marketing-sdk-api
+  description: Criteo Python Marketing SDK API
+  tags:
+    - criteo
+    - rest
+spec:
+  type: openapi
+  lifecycle: production
+  owner: helloworld@criteo.com
+  definition:
+    $text: https://api.criteo.com/marketing/swagger/docs/v.1.0
