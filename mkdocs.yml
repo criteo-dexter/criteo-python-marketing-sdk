@@ -1,0 +1,9 @@
+site_name: 'criteo-python-marketing-sdk-docs'
+
+nav:
+  - Home: index.md
+
+repo_url: https://github.com/criteo-dexter/criteo-python-marketing-sdk/
+
+plugins:
+  - techdocs-core
